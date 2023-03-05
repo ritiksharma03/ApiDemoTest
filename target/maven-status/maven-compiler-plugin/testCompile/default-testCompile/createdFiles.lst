@@ -1,0 +1,5 @@
+stepDefinition\hooks.class
+stepDefinition\GraphicStepDef.class
+stepDefinition\OsStepDef.class
+stepDefinition\AnimationStepDef.class
+TestRunner.class

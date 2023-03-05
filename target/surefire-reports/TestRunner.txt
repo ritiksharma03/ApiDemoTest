@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 89.029 s <<< FAILURE! - in TestRunner
+runScenario(TestRunner)  Time elapsed: 14.144 s  <<< FAILURE!
+java.lang.AssertionError: expected [Graphics/Arc] but found [Graphics/Arcs]
+
